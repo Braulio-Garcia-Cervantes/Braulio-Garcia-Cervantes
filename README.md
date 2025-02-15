@@ -1,4 +1,4 @@
-                                                                    Hi!, I'm Braulio Garcia-Cervantes
+                                                           **Hi!, I'm Braulio Garcia-Cervantes**
 
 # 💫 About Me:
 I am a computer science student at Cal State Long Beach, passionate about the world of coding, <br>up-and-coming machine learning/AI implementations in modern software, and building robust applications.
